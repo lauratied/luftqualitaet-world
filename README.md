@@ -1,2 +1,2 @@
-# luftqualitaet-ostasien
-PM2.5-Trends Seoul, Tokio, Taipeh, Peking
+# luftqualitaet-world
+PM2.5-Trends im regionalem Vergleich 
